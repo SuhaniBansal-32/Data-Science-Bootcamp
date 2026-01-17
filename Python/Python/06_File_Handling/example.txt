@@ -1,0 +1,3 @@
+Hello world
+This is a new line 
+I have opened the file in r+ mode.

@@ -1,0 +1,11 @@
+Hello World!
+I am Suhani Bansal.
+
+Append operation taking place.
+Welcome to the course.
+First Line
+Second Line
+Third Line
+First Line
+Second Line
+Third Line
